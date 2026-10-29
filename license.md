@@ -201,7 +201,7 @@ Use the green button in the Quick Start section above.
 
 | **Build** | **Date** | **Notes** |
 | --- | --- | --- |
-| 2026.4 | 2026-10-28 | Latest stable, current release |
+| 2026.4 | 2026-10-29 | Latest stable, current release |
 | 2026.3 | earlier | Performance improvements |
 | 2026.2 | earlier | Bug fixes |
 | 2026.1 | earlier | First public build |
@@ -280,6 +280,6 @@ matches and a separate one for private testing.
 
 ---
 
-*call-of-duty-warzone-assistant-pack · Updated 2026-10-28 · Shared under the MIT License*
+*call-of-duty-warzone-assistant-pack · Updated 2026-10-29 · Shared under the MIT License*
 
-<!-- updated 2026-10-28 -->
+<!-- updated 2026-10-29 -->
